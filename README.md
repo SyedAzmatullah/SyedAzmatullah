@@ -1,6 +1,6 @@
 <Div>
   
-  <h1 align="center">Azmat syed</h1>
+  <h1 align="center">syed azmat</h1>
 <h3 align="center">I am a</h3>
 <p align="center">
 
